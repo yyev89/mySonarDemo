@@ -1,1 +1,1 @@
-# sonardemo
+# sonardemo java softserve project
